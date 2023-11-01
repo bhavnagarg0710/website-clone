@@ -1,0 +1,30 @@
+div{
+text-align: center;
+}
+h1{
+    text-align: center;
+    font-weight: 900;
+}
+#name{
+    width: 250px;
+}
+#phn{
+    width: 250px;
+}
+#email{
+    width: 250px;
+}
+#msg{
+    width: 250px;
+    height: 80px;
+}
+h2{
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 250px;
+    position: absolute;
+    left: 490px;
+
+    
+}
